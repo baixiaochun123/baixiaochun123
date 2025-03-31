@@ -3,7 +3,7 @@
 
 Welcome to my Github page! Unremitting self-improvement and unity of knowledge and action! 
 
-<img align="right" alt="img" src="https://github.com/baixiaochun123/baixiaochun123/26711743418746_.pic.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/baixiaochun123/baixiaochun123/1.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
