@@ -1,10 +1,9 @@
 ### Hi there 👋 
-### This is FengXian Ji!
+### This is baixiaochun123!
 
 Welcome to my Github page! Unremitting self-improvement and unity of knowledge and action! 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
+<img align="right" alt="img" src="https://github.com/baixiaochun123/baixiaochun123/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
@@ -19,7 +18,7 @@ Welcome to my Github page! Unremitting self-improvement and unity of knowledge a
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=baixiaochun123&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -34,4 +33,4 @@ Welcome to my Github page! Unremitting self-improvement and unity of knowledge a
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/baixiaochun123/baixiaochun123/blob/master/cover_image.jpg)</sub>
