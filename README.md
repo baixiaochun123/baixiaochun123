@@ -33,5 +33,7 @@ Welcome to my Github page! Unremitting self-improvement and unity of knowledge a
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/baixiaochun123/baixiaochun123/blob/master/cover_image.jpg)</sub>
 
+#### interesting thing
 - If you are interested in participating in the e-commerce triple you can contact me, I have a triple competition project here you can practice, regardless of the restrictions neuq students, e-commerce is preferred
 
+📫 Contact me: baixiaochun123@gmail.com
