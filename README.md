@@ -3,12 +3,10 @@
 
 Welcome to my Github page! Unremitting self-improvement and unity of knowledge and action! 
 
-<img align="right" alt="img" src="https://github.com/baixiaochun123/baixiaochun123/blob/main/1.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/baixiaochun123/baixiaochun123/blob/main/1.jpg" width="70%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -34,3 +32,6 @@ Welcome to my Github page! Unremitting self-improvement and unity of knowledge a
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/baixiaochun123/baixiaochun123/blob/master/cover_image.jpg)</sub>
+
+- If you are interested in participating in the e-commerce triple you can contact me, I have a triple competition project here you can practice, regardless of the restrictions neuq students, e-commerce is preferred
+
